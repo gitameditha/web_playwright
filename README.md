@@ -1,4 +1,4 @@
-# dfe-ui-automation
+# Boiler plate Automation UI use Playwright
 
 ## Getting started
 Repository UI Automation DFE using Playwright
